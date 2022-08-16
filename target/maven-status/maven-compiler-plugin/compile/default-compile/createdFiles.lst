@@ -1,0 +1,13 @@
+hn\com\tigo\josm\orchestrator\da\adapter\task\ResponseMock.class
+hn\com\tigo\josm\orchestrator\da\adapter\task\DAAccountDeleteTask.class
+hn\com\tigo\josm\orchestrator\da\adapter\task\DACreateMPMockTask.class
+hn\com\tigo\josm\orchestrator\da\adapter\task\DACreateIncluAndExcluTask.class
+hn\com\tigo\josm\orchestrator\da\adapter\task\DACreateMPTask.class
+hn\com\tigo\josm\orchestrator\da\adapter\task\DACreateIncluAndExcluMockTask.class
+hn\com\tigo\josm\orchestrator\da\adapter\task\DAUpdateMPTask.class
+hn\com\tigo\josm\orchestrator\da\adapter\task\DAAccountDeleteMockTask.class
+hn\com\tigo\josm\orchestrator\da\adapter\task\DAGetMPMockTask.class
+hn\com\tigo\josm\orchestrator\da\adapter\core\DAAdapter.class
+hn\com\tigo\josm\orchestrator\da\adapter\task\DAGetMPTask.class
+hn\com\tigo\josm\orchestrator\da\adapter\utils\DAAdapterConstants.class
+hn\com\tigo\josm\orchestrator\da\adapter\task\DAUpdateMPMockTask.class

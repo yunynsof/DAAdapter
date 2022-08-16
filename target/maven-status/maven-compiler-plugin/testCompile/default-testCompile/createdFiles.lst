@@ -1,0 +1,13 @@
+hn\com\tigo\josm\orchestrator\da\adapter\test\DAAccountDeleteMockTaskTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\DACreateIncluAndExcluTaskTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\DAGetMPMockTaskTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\DACreateMPTaskTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\DACreateMPMockTaskTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\DAAccountDeleteTaskTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\EjbContainerContext.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\DAUpdateMPTaskTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\AbstractTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\DAUpdateMPMockTaskTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\DAGetMPTaskTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\AllTest.class
+hn\com\tigo\josm\orchestrator\da\adapter\test\DACreateIncluAndExcluMockTaskTest.class

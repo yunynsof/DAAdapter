@@ -1,0 +1,10 @@
+{
+	"DA": {
+		"connectionRequestTimeout": 15000,
+		"connectTimeout": 15000,
+		"defaultMaxPerRoute": 20,
+		"maxTotal": 100,
+		"socketTimeout": 15000,
+		"expirationTimeCache": 84000000
+	}
+}
