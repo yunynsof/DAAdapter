@@ -10,12 +10,11 @@ import hn.com.tigo.josm.common.exceptions.AdapterException;
 import hn.com.tigo.josm.orchestrator.da.driver.core.DADriver;
 
 /**
- * DACreateIncluAndExcluMockTask This class is a mock type for the DACreateIncluAndExclu task.
+ * DACreateIncluAndExcluMockTask This class is a mock type for the DACreateIncluAndExclu task..
  *
- * @author Yuny Rene Rodriguez Perez <mailto: yrodriguez@hightech-corp.com />
- * @version 
- * @see 
- * @since 06-09-2022 03:52:31 PM 2022
+ * @author Yuny Rene Rodriguez Perez {@literal<mailto: yrodriguez@hightech-corp.com />}
+ * @version  1.0.0
+ * @since 08-16-2022 08:31:51 AM 2022
  */
 @WebService
 @Stateless(mappedName = "DACreateIncluAndExcluMockTask")
